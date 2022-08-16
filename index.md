@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to QCW3B
 
-You can use the [editor on GitHub](https://github.com/kryptoken101/QCW3b/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use [Thirdweb](https://thirdweb.com) to customize and build web3 apps easily.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a blockchain-based project intended to ensure transparency, reliability and data security. The development outline is likewise focused in providing a remunerative ecosystem for all users and the community. You mauy utilize [Remix Ethereum IDE](https://remix.ethereum.org/) to write, import, compile, deploy and run Solidity contracts.
 
 ### Markdown
 
@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Weblink or URL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kryptoken101/QCW3b/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Here is the application's [base directory](http://qcw3b.kryptoken.site). The semantic web 3.0 address, however, can be found in the `_config.yml` configuration file.
 
-### Support or Contact
+### Support
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the pages or application? Check out our [documentation](http://qcw3b.kryptoken.site/#docs) or [contact support](mailto:support@kryptoken.site) so we may help you sort it out.
