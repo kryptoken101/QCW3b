@@ -10,7 +10,7 @@ Welcome to QCW3b
 [![StyleCI](https://styleci.io/repos/30856851/shield?branch=master)](https://styleci.io/repos/30856851)
 [![POEditor](https://img.shields.io/badge/Languages-22-green.svg)](https://poeditor.com/join/project/RABdnDSqAt)
 
-Credit to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM) for an excellent integrated build environment.
+Credit to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM) for a remarkable integrated build environment.
 
 
 ### Docker
