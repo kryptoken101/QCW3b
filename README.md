@@ -10,7 +10,7 @@ Welcome to QCW3b
 [![StyleCI](https://styleci.io/repos/30856851/shield?branch=master)](https://styleci.io/repos/30856851)
 [![POEditor](https://img.shields.io/badge/Languages-22-green.svg)](https://poeditor.com/join/project/RABdnDSqAt)
 
-Kudos to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM)
+Credit to [JetBrain PHP Storm IDE] for an excellent build environment(https://www.jetbrains.com/?from=ChurchCRM)
 
 
 ### Docker
@@ -24,11 +24,11 @@ Kudos to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM)
 
 * [Download the lastest release](https://github.com/ChurchCRM/CRM/releases/latest)
 
-* [Checkout our online Docs](http://qcw3b.kryptoken.site/#docs)
+* [View our online documentation](http://qcw3b.kryptoken.site/#docs)
 
-## Project Metrics 
+## Project Manager 
 
-[Download Stats](http://www.somsubhra.com/github-release-stats/?username=churchcrm&repository=CRM)
+[D'Expert IT Solutions](https://dexperteam.ml)
 
 ##  Change Log
 
@@ -36,7 +36,7 @@ Kudos to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM)
 
 ### Demo Account
 
-To test out the demo, you may login to the http://qcw3b.kryptoken.site/demo  with the following:
+To test out the demo, you may login to the http://qcw3b.kryptoken.site/demo  with the following credentials:
 
 - **Username:** admin
 - **Password:** demo
