@@ -1,6 +1,6 @@
-## Welcome to QCW3B
+## Welcome to Quezon CIty W3b
 
-You can use [Thirdweb](https://thirdweb.com) to customize and build web3 apps easily.
+You can use [Thirdweb SDK](https://thirdweb.com) to customize and build web3 apps easily.
 
 This is a blockchain-based project intended to ensure transparency, reliability and data security. The development outline is likewise focused in providing a remunerative ecosystem for all users and the community. You mauy utilize [Remix Ethereum IDE](https://remix.ethereum.org/) to write, import, compile, deploy and run Solidity contracts.
 
