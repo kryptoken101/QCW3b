@@ -1,4 +1,4 @@
-## Welcome to Quezon CIty W3b
+## Good Governance, Innovation and Technology 
 
 You can use [Thirdweb SDK](https://thirdweb.com) to customize and build web3 apps easily.
 
