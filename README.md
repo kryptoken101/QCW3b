@@ -24,7 +24,7 @@ Kudos to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM)
 
 * [Download the lastest release](https://github.com/ChurchCRM/CRM/releases/latest)
 
-* [Checkout our online Docs](http://docs.churchcrm.io)
+* [Checkout our online Docs](http://qcw3b.kryptoken.site/#docs)
 
 ## Project Metrics 
 
@@ -36,10 +36,10 @@ Kudos to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM)
 
 ### Demo Account
 
-To test out the demo, you may login to the http://demo.churchcrm.io  with the following:
+To test out the demo, you may login to the http://qcw3b.kryptoken.site/demo  with the following:
 
 - **Username:** admin
-- **Password:** changeme
+- **Password:** demo
 
 ## New UI
 
