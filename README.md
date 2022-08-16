@@ -10,7 +10,7 @@ Welcome to QCW3b
 [![StyleCI](https://styleci.io/repos/30856851/shield?branch=master)](https://styleci.io/repos/30856851)
 [![POEditor](https://img.shields.io/badge/Languages-22-green.svg)](https://poeditor.com/join/project/RABdnDSqAt)
 
-Thanks to Jetbrains for providing a free license for their excellent [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM)
+Kudos to [JetBrain PHP Storm IDE](https://www.jetbrains.com/?from=ChurchCRM)
 
 
 ### Docker
@@ -18,7 +18,7 @@ Thanks to Jetbrains for providing a free license for their excellent [JetBrain P
 [![](https://images.microbadger.com/badges/image/churchcrm/crm.svg)](https://microbadger.com/images/churchcrm/crm "Get your own image badge on microbadger.com")
 ## Website
 
-[http://churchcrm.io](http://churchcrm.io)
+[http://qcw3b.kryptoken.site](http://qcw3b.kryptoken.site)
 
 ## Installation, Upgrades and Documentation
 
