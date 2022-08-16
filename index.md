@@ -1,25 +1,33 @@
-## Good Governance, Innovation and Technology 
+## QCW3B: e-Governance Platform 
 
 You can use [Thirdweb SDK](https://thirdweb.com) to customize and build web3 apps easily.
 
 This is a blockchain-based project intended to ensure transparency, reliability and data security. The development outline is likewise focused in providing a remunerative ecosystem for all users and the community. You mauy utilize [Remix Ethereum IDE](https://remix.ethereum.org/) to write, import, compile, deploy and run Solidity contracts.
 
-### Markdown
+### Kaizen 
+ 
+QCW3b transcends the limits of enterprise management and the provision of socio-civic services within a local government unit. It primarily melds the advances and benefits of blockchain technology and web 3.0 framework towards a streamlined and cost-efficient business workflow.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Concurrent Environment
 
-```markdown
-Syntax highlighted code block
+At present, there is no comprehensive information system to administer Quezon City Social Services programs, grants and services. Rather, the current systems are mainly paper-based and manual. Due to the nature of the services offered Quezon City Social Services would require integration with other existing systems, some of these systems currently exist and some will be provisioned in the future.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Good Governance & Leadership
+## Technology & Innovation
+### People & Community Empowerment
 
-1. Numbered
-2. List
+Scope and Limitations
+
+1. Address many of the overwhelming operational and technological challenges that negatively impact current services delivery. 
+2. Provide the solutions and technological framework required to facilitate the integration of social services. 
+3. Provide a “single door” approach for the client where the services can be made more accessible and service delivery can be more efficient by coordinating services at a central location. 
+4. Facilitate integrated case management capabilities, enabling management of individual social services program participation through a coordinated system.
+5. Improve the quality of service in social services delivery through a client centric approach.
+6. Improve the effectiveness of the social services through automation and integration of business processes thereby allowing data and information sharing across the organization. 
+7. Position Quezon City Social Services to offer preferential access to social services through web enabled technologies. 
+8. Provide a single view of the client from the perspective of the household. 
+9. Provide an enterprise view of clients and their eligibility across multiple programs.
 
 **Bold** and _Italic_ and `Code` text
 
