@@ -1,0 +1,75 @@
+{
+    "name": "churchcrm/crm",
+    "version": "4.5.0",
+    "type": "project",
+    "keywords": [
+        "church",
+        "crm"
+    ],
+    "homepage": "http://www.churchcrm.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "George Dawoud",
+            "homepage": "http://blog.dawouds.com",
+            "role": "Lead Developer"
+        },
+        {
+            "name": "Charles Crossan",
+            "homepage": "https://crossan007.dev/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "info@churchcrm.io",
+        "issues": "https://github.com/ChurchCRM/CRM/issues",
+        "irc": "https://gitter.im/ChurchCRM/CRM",
+        "source": "https://github.com/ChurchCRM/CRM",
+        "docs": "https://github.com/ChurchCRM/CRM/wiki"
+    },
+    "config": {
+        "platform": {
+            "php": "7.3"
+        },
+        "sort-packages": true
+    },
+    "require": {
+        "azuyalabs/yasumi": "^2.4.0",
+        "defuse/php-encryption": "^2.3.1",
+        "drewm/mailchimp-api": "^2.5.4",
+        "endroid/qr-code": "^3.9.7",
+        "geocoder-php/bing-maps-provider": "^4.2.0",
+        "geocoder-php/google-maps-provider": "^4.6.0",
+        "ifsnop/mysqldump-php": "^v2.9",
+        "knplabs/github-api": "^2.20.0",
+        "monolog/monolog": "^2.3.0",
+        "mustache/mustache": "^v2.13.0",
+        "php-http/guzzle7-adapter": "^0.1.1",
+        "php-http/message": "^1.11.1",
+        "phpmailer/phpmailer": "^6.5.1",
+        "pragmarx/google2fa": "^8.0.0",
+        "propel/propel": "2.0.0-alpha12",
+        "setasign/fpdf": "^1.8.3",
+        "slim/http-cache": "^1.1.0",
+        "slim/php-view": "^3.1.0",
+        "slim/slim": "^3.12.3",
+        "symfony/translation": "^5.3.3",
+        "verot/class.upload.php": "^2.1.0",
+        "vonage/client": "^2.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "ChurchCRM/"
+        ],
+        "psr-4": {
+            "\\": "bin/",
+            "ChurchCRM\\": "ChurchCRM/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "url": "https://packagist.org",
+            "type": "composer"
+        }
+    }
+}

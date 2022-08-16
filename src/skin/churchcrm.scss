@@ -1,0 +1,53 @@
+/*! DO NOT MANUALLY EDIT skin/churchcrm.min.css
+
+    Please make changes to skin/scss/*.scss and recompile with SASS. http://sass-lang.com/
+
+    sass --watch src/skin/churchcrm.scss:src/skin/churchcrm.min.css --style compressed
+
+*/
+
+
+// Import Libraries
+
+// The only library we do not embed is Bootstrap, because it's very big
+// and we don't want to incur IE's CSS limits.
+// ( http://spaceninja.com/2015/03/31/ie-css-limits/ )
+
+@import 'external/bootstrap-datepicker/bootstrap-datepicker.standalone.min.css';
+@import 'external/datatables/datatables.min.css';
+@import 'external/select2/select2.min.css';
+@import 'external/adminlte/adminlte.min.css';
+@import 'external/fontawesome/css/all.min.css';
+
+@import 'external/jquery-ui/jquery-ui.css';
+@import 'external/bootstrap-toggle/bootstrap-toggle.css';
+@import 'external/jquery.steps/jquery.steps.css';
+@import 'external/jquery-photo-uploader/PhotoUploader.css';
+
+@import 'external/fullcalendar/fullcalendar.min.css';
+@import 'external/fullcalendar/fullcalendar.print.css' print;
+@import 'external/react-datepicker/react-datepicker.min.css';
+@import 'external/flag-icons/css/flag-icons.min.css';
+
+// Import ChurchCRM custom styles
+
+@import 'scss/dropdowns';
+@import 'scss/forms';
+@import 'scss/tables';
+@import 'scss/profileImage';
+@import 'scss/shortConfig';
+@import 'scss/leftNav';
+@import 'scss/imageOverlay';
+@import 'scss/maps';
+@import "scss/spacing";
+@import 'scss/SystemNotifications';
+@import 'scss/cartDropdown';
+@import 'scss/strike';
+@import 'scss/calendars';
+@import 'scss/react-datepicker';
+@import 'scss/_two-factor-enrollment';
+@import 'scss/systemSettings';
+
+html, body {
+  font-size: 14px;
+}
